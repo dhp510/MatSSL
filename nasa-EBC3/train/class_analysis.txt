@@ -1,0 +1,7 @@
+Class Analysis Report for EBC3/train
+==================================================
+
+Number of channels: 1
+Unique class values (indexed): [0, 1, 2]
+Total indexed classes: 3
+Total files analyzed: 15
